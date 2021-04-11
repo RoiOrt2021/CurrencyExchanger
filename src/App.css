@@ -1,0 +1,57 @@
+body{
+    background: linear-gradient(to right, rgb(255, 255, 255) 0%, rgb(83, 109, 255) 100%);
+    text-align: center;
+    font-size: 1.1em;
+    font-family: 'Lato', sans-serif;
+    color: rgb(9, 59, 75);
+   
+}
+
+
+h1{
+    color: rgb(253, 255, 159);
+    font-size: 5em;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+.amount{
+    width: fit-content;
+    margin: 0 auto;
+    padding: 4px;
+    
+}
+.selectbox{
+    width:15.5%;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top: 16px;
+}
+.select{
+    margin: 0 auto;
+    width: fit-content;
+    cursor: pointer;
+    
+    
+    
+}
+.selectbox i{
+    font-size: 2em;
+    margin-top: 36px;
+    cursor: pointer;
+    
+
+}
+.btn{
+    margin-top: 40px;
+}
+h2{
+    color: rgb(253, 255, 159);
+
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    margin-top: 20px;
+}
+h3{
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 10px rgb(204, 0, 255);
+}
+
+

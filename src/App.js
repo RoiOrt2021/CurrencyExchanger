@@ -1,14 +1,14 @@
 import './App.css';
-import CounterApp from "./comps/counterApp"
-import AppProto from './protfolioComps/appProto';
+import AppExchange from './Exchange/AppExchange';
+
+
 
 function App() {
-  let user = "koko";
+ 
 
   return (
     <div className="App">
-      <AppProto />
-     {/* <CounterApp /> */}
+    <AppExchange/>
     </div>
   );
 }
